@@ -1,0 +1,12 @@
+pandas
+requests
+beautifulsoup4
+warn
+Flask
+matplotlib
+collection
+wordcloud
+nltk
+scikit-learn
+opencv-python
+seaborn
